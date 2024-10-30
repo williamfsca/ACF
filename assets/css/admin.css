@@ -1,0 +1,52 @@
+.custom-fields-meta-box {
+    padding: 12px;
+}
+
+.custom-field {
+    margin-bottom: 20px;
+}
+
+.custom-field label {
+    display: block;
+    font-weight: 600;
+    margin-bottom: 5px;
+}
+
+.custom-field input[type="text"],
+.custom-field textarea,
+.custom-field select {
+    width: 100%;
+    max-width: 100%;
+}
+
+.custom-field textarea {
+    min-height: 100px;
+}
+
+.field-group-settings {
+    background: #fff;
+    border: 1px solid #ccd0d4;
+    padding: 20px;
+    margin: 20px 0;
+}
+
+.field-group-title {
+    margin-bottom: 20px;
+}
+
+.field-group-location {
+    margin: 20px 0;
+}
+
+.fields-container {
+    margin-top: 30px;
+}
+
+.fields-list {
+    margin-bottom: 15px;
+}
+
+.submit-container {
+    margin-top: 20px;
+    padding: 20px 0;
+}
